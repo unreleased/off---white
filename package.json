@@ -1,0 +1,20 @@
+{
+    "name": "off-white",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "2captcha": "^1.0.11",
+      "async": "^2.6.1",
+      "cheerio": "^1.0.0-rc.2",
+      "discord.js": "^11.4.2",
+      "fs": "0.0.1-security",
+      "request": "^2.88.0",
+      "request-promise": "^4.2.2"
+    }
+  }

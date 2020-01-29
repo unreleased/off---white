@@ -1,0 +1,17 @@
+{
+    "client": {
+        "webhook": "",
+        "api2Captcha": ""
+    },
+    "users": [{
+        "email": "",
+        "password": "",
+        "card": {
+            "number": "",
+            "cvv": "",
+            "exp_month": "",
+            "exp_year": ""
+        },
+        "proxy": ""
+    }] 
+}
